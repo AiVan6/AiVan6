@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤓 My name Ivan
+- 🤓 My name is Ivan
 - 🔭 I’m currently study on NSTU 
 - ✨ 2nd year master's degree 
 - 💻 I write various software, tg-bots, websites in Java.
