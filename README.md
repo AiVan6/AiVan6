@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🤓 My name is Ivan
+- 🤓 My name is [Ivan](https://t.me/aivan111)
 - 🔭 I’m currently study on NSTU 
 - ✨ 2nd year master's degree 
-- 💻 I write various software, tg-bots, websites in Java.
+- 💻 I write various software, tg-bots, websites in Java + js.
 - ⚡ Looking for a job
-- 📫 How to reach me: tg(https://t.me/aivan111)
+- 📫 How to reach me: [Twitter](https://x.com/vysotskiy_ivan)
 
 
 
