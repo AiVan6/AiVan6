@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🤓 My name is Ivan
-- ✨ Graduated from NSTU
+- 😄 My name is Ivan
+- ⚡ Graduated from NSTU
 - 🌱 Open to work
 - 💻 I write various software, tg-bots, websites in Java + js.
 - 📫 How to reach me: [Twitter](https://x.com/vysotskiy_ivan), [Telegram](https://t.me/aivan111)
