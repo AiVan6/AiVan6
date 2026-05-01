@@ -1,10 +1,10 @@
 # 👋 Иван Высоцкий — Backend Developer
 
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-AiVan6-181717?style=for-the-badge&logo=github)](https://github.com/AiVan6)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AiVan6)
 [![Telegram](https://img.shields.io/badge/Telegram-@aivan__vys-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/aivan_vys)
 [![Email](https://img.shields.io/badge/Email-iyvysotskiy4@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:iyvysotskiy4@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-8_(961)_976--70--05-25D366?style=for-the-badge&logo=whatsapp)](tel:+79619767005)
 
 **Backend разработчик · Java / PHP / AI Automation**
 
