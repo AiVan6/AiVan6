@@ -1,4 +1,4 @@
-# 👋 Иван Высоцкий — Backend Developer
+# 👋 Ivan Vysotsky — Backend Developer
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@aivan__vys-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/aivan_vys)
 [![Email](https://img.shields.io/badge/Email-iyvysotskiy4@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:iyvysotskiy4@gmail.com)
 
-**Backend разработчик · Java / PHP / AI Automation**
+**Backend developer · Java / PHP / AI Automation**
 
 <!--
 **AiVan6/AiVan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
